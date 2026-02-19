@@ -4,8 +4,8 @@ My name is Sankalp Amaravadi, a senior at Kennesaw State University working towa
 
 Here are some ideas to get you started:
 
-- I’m currently working on a Python Authentication Project and a JS based project with a nonprofit.
-- I’m currently learning Python, JavaScript, C++
+- I recently completed working on a JS based project with a nonprofit.
+- I’m currently developing my Python, JavaScript, C++ skillset
 - Ask me about: my side projects
 - How to reach me:
 - Email: Sankalp.Amaravadi33@gmail.com
