@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - How to reach me:
 - Email: Sankalp.Amaravadi33@gmail.com
 - Pronouns: he/him
-- Fun fact: I am a car enthusiast and go play disc golf on the side
+- Fun fact: I am a car enthusiast, like photography and I play disc golf for fun
