@@ -1,13 +1,17 @@
-## Hello There! 👋
+# Hello There! 
 
-My name is Sankalp Amaravadi, a senior at Kennesaw State University working towards a Bachelor's in Software Engineering with a minors in Computer Science
+My name is Sankalp Amaravadi.  I have a years worth of experience developing web based applications for the likes of Georgia Watch.  Recently completing my last semester of my bachelor's degree in Software Engineering, I have experience with multiple languages and frameworks.  
 
-Here are some ideas to get you started:
+# Current Tech Stack:
+I have my current tech stack listed in terms of most used in both my coursework and internship experience. 
+## Languages:
+* Java
+* JavaScript
+* Python
+* C++
+## Frameworks:
+* React.JS
+* Node.JS
 
-- I recently completed working on a JS based project with a nonprofit.
-- I’m currently developing my Python, JavaScript, C++ skillset
-- Ask me about: my side projects
-- How to reach me:
+# Easy ways to reach me:
 - Email: Sankalp.Amaravadi33@gmail.com
-- Pronouns: he/him
-- Fun fact: I am a car enthusiast, like photography and I play disc golf for fun
